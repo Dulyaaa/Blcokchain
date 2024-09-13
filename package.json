@@ -1,0 +1,25 @@
+{
+  "name": "blcokchain",
+  "version": "1.0.0",
+  "description": "the beginner blockchain project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dulyaaa/Blcokchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Dulya Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dulyaaa/Blcokchain/issues"
+  },
+  "homepage": "https://github.com/Dulyaaa/Blcokchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
